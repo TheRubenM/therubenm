@@ -3,9 +3,6 @@ Hi 👋 My name is Ruben Dario Martinez
 
 Leadership, Business, and Technology Athlete
 --------------------------------------------
-
-Self-taught Software Engineer with a deep business background and lifelong passion for technology. Experienced in helping scale organizations of all sizes, including Facebook / Meta and Abilitie. In love with life and intentional continuous improvement.
-
 * 🌍  I'm from the Bronx, NY and currently based in Austin, TX
 * ✉️  You can contact me at [hello@ruben.energy](mailto:hello@ruben.energy)
 * 🚀  I'm currently working on [reimagining business education at Abilitie](http://abilitie.com)
