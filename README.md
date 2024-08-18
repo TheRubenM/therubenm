@@ -37,13 +37,7 @@ Self-taught Software Engineer with a deep business background and lifelong passi
   </a> 
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/therubenm"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=therubenm&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-### Support Me
+### Spontaneously buy me a coffee? 
 
 <ul style="list-style-type: none; margin: 0;">
 
